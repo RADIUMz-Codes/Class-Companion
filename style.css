@@ -1,0 +1,29 @@
+
+table caption{
+    font-size: 2rem;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.head{
+    background-color: lightslategrey;
+    color: white;
+}
+.green{
+    background-color: rgb(198, 243, 198);
+}
+
+td,th{
+    text-align: center;
+    padding: 8px;
+}
+
+
+
+a{
+    color: black;
+    font-weight: 600;
+}
+td:hover{
+    background-color: lightgray;
+}
+
